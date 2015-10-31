@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GRE Helper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_swipe__tab__main">Swipe_Tab_Main</string>
+    <string name="title_activity_word__details">Word_Details</string>
+    <string name="title_activity_text_to__speech">Text_to_Speech</string>
+
+</resources>
